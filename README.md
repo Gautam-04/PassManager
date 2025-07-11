@@ -1,6 +1,6 @@
 # 🔐 Password Manager
 
-The **Password Manager** is a simple desktop application built using Java (NetBeans IDE) with MySQL as the backend. It allows users to securely store, retrieve, update, and manage login credentials for various websites. The application uses Java Swing for the graphical user interface and JDBC for connecting to the database.
+The **Password Manager** is a simple desktop application built using Java (NetBeans IDE) with MySQL as the backend. It allows users to securely store, retrieve, update, and manage login credentials for various websites. The application uses Java Swing for the graphical user interface and JDBC for connecting to the database. To ensure the security of stored credentials, this application uses **AES (Advanced Encryption Standard)** to encrypt all passwords before saving them to the MySQL database.
 
 ---
 
@@ -12,6 +12,7 @@ The **Password Manager** is a simple desktop application built using Java (NetBe
 <img width="715" height="543" alt="image" src="https://github.com/user-attachments/assets/66c50ca1-ab30-451f-bf4b-b184a3244e4e" />
 
 **Encrypted Password**
+
 <img width="642" height="93" alt="image" src="https://github.com/user-attachments/assets/c3036c10-89ce-42cc-bd3e-67e0cb0d4590" />
 
 ---
