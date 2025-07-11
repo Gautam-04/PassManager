@@ -11,6 +11,8 @@ The **Password Manager** is a simple desktop application built using Java (NetBe
 <img width="707" height="522" alt="image" src="https://github.com/user-attachments/assets/8d031e32-09f6-48e1-a3f2-e2f2cad6666d" />
 <img width="715" height="543" alt="image" src="https://github.com/user-attachments/assets/66c50ca1-ab30-451f-bf4b-b184a3244e4e" />
 
+**Encrypted Password**
+<img width="642" height="93" alt="image" src="https://github.com/user-attachments/assets/c3036c10-89ce-42cc-bd3e-67e0cb0d4590" />
 
 ---
 
@@ -18,8 +20,9 @@ The **Password Manager** is a simple desktop application built using Java (NetBe
 
 - **Java** (Swing for GUI)
 - **NetBeans IDE**
-- **MySQL** (as the backend database)
+- **MySQL** (backend database)
 - **JDBC** (Java Database Connectivity)
+- **AES Encryption** (for secure password storage)
 
 ---
 
@@ -29,7 +32,7 @@ The **Password Manager** is a simple desktop application built using Java (NetBe
 - 🖊️ Edit and update existing records
 - ❌ Delete saved credentials from the database
 - 🔍 Search credentials by website name
-- 🖥️ User-friendly desktop interface
+- 🖥️ User-friendly desktop interface with encrypted password storage
 
 ---
 
